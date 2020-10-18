@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1598"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo_tm.svg">
   <title
      id="title11075">Nomacode Logomark #9 (Square, Trademark, Primary Color Scheme)</title>
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="490.40969"
-     inkscape:cy="372.45507"
+     inkscape:zoom="1.22"
+     inkscape:cx="474.98541"
+     inkscape:cy="686.98735"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -113,25 +113,25 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2143-5"
        sodipodi:type="arc"
-       sodipodi:cx="-55.242142"
+       sodipodi:cx="-55.242149"
        sodipodi:cy="-246.78519"
        sodipodi:rx="74.757858"
        sodipodi:ry="50.214798"
        sodipodi:start="1.701696"
        sodipodi:end="4.712389"
        sodipodi:open="true"
-       d="m -64.999999,-196.99998 a 74.757858,50.214798 0 0 1 -64.839941,-53.06941 74.757858,50.214798 0 0 1 74.5978,-46.93059"
+       d="m -65.000006,-196.99998 a 74.757858,50.214798 0 0 1 -64.839944,-53.06941 74.757858,50.214798 0 0 1 74.597802,-46.93059"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.63377762px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.48576847"
-       x="125.0816"
-       y="311.73242"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.3222084px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49293962"
+       x="124.80103"
+       y="312.04236"
        id="text11079"><tspan
          sodipodi:role="line"
          id="tspan11077"
-         x="125.0816"
-         y="311.73242"
-         style="baseline-shift:baseline;fill:#ffffff;fill-opacity:1;stroke-width:0.48576847">™</tspan></text>
+         x="124.80103"
+         y="312.04236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;baseline-shift:baseline;fill:#ffffff;fill-opacity:1;stroke-width:0.49293962">™</tspan></text>
   </g>
 </svg>
