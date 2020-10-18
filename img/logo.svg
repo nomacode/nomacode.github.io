@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1598"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="nomacode_logomark_9_square_tm_primarycolor.svg">
+   sodipodi:docname="logo.svg">
   <title
      id="title11075">Nomacode Logomark #9 (Square, Trademark, Primary Color Scheme)</title>
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="474.04949"
-     inkscape:cy="421.14545"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="490.40969"
+     inkscape:cy="372.45507"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -124,14 +124,14 @@
        transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.31688881px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24288423;"
-       x="127.5408"
-       y="304.36621"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.63377762px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.48576847"
+       x="125.0816"
+       y="311.73242"
        id="text11079"><tspan
          sodipodi:role="line"
          id="tspan11077"
-         x="127.5408"
-         y="304.36621"
-         style="baseline-shift:baseline;fill:#ffffff;fill-opacity:1;stroke-width:0.24288423;">™</tspan></text>
+         x="125.0816"
+         y="311.73242"
+         style="baseline-shift:baseline;fill:#ffffff;fill-opacity:1;stroke-width:0.48576847">™</tspan></text>
   </g>
 </svg>
