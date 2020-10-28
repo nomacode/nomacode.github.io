@@ -6,33 +6,55 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./css/w3.css">
 <style>
-body, html {height: 100%}
+body, html { height: 100% }
 .bgimg {
   background-image: url('./img/under_construction_bw.jpg');
   min-height: 100%;
+  background-attachment: fixed;
   background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 .nc-font {
     font-family: "Courier New", Courier, monospace;
 }
+a { text-decoration: none; }
 </style>
 
 <body>
+  <!-- Main Container -->
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-    <div class="w3-display-topleft" style="padding:24px">
-      <div class="w3-card-4 w3-greyscale" style="width:15%"">
-        <img src="./img/logo.svg" alt="Nomacode logo" class="w3-round" style="width:100%">
+    <div class="w3-row">
+      <div class="w3-container">
+        <div class="w3-display-topleft" style="padding:24px">
+          <div class="w3-card-4 w3-greyscale" style="width:15%">
+            <img src="./img/logo.svg" alt="Nomacode logo" class="w3-round" style="width:100%">
+          </div>
+        </div>
       </div>
     </div>
-    <div class="w3-display-middle">
-      <h1 class="w3-animate-top nc-font" style="font-size:96px;"><b>nomacode</b></h1>
-      <hr class="w3-border-white" style="margin:auto;width:60%">
-      <p class="w3-large w3-center nc-font"><br/><b>Under construction<br/><br/>Glory to Arstotzka!</b></p>
+    <div class="w3-row">
+      <div class="w3-container">
+        <div class="w3-display-middle">
+          <h1 class="w3-animate-top nc-font" style="font-size:96px"><b>nomacode</b></h1>
+          <hr class="w3-border-white" style="margin:auto;width:60%">
+          <p class="w3-large w3-center nc-font"><br/><b><a href="https://www.youtube.com/watch?v=YFHHGETsxkE">Glory to Arstotzka!</a></b></p>
+        </div>
+      </div>
     </div>
-    <div class="w3-display-bottomleft nc-font" style="padding:24px">
-        Copyright © 2020 <a href="https://www.youtube.com/watch?v=_QP5X6fcukM">Ministry of Stamps</a>
+    <div class="w3-row">
+      <div class="w3-container">
+        <div class="w3-display-bottomleft nc-font" style="padding:24px">
+          Copyright © 2020 Nomacode LLC
+        </div>
+      </div>
     </div>
+  </div>
+  <!-- Contact Info Container -->
+  <div class="w3-content w3-container w3-padding-64">
+    <h3 class="w3-center nc-font"><b>Nomacode LLC</b></h3>
+    <p class="w3-center nc-font">Besiki Business Center, Besiki Street 4<br/>0108 Tbilisi<br/>GEORGIA</p>
+    <p class="w3-center nc-font"><a href="mailto:info@company.com">info@nomacode.com</a></p>
   </div>
 </body>
 
