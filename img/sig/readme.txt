@@ -1,0 +1,1 @@
+Note: All images here are used in email signature templates. Do not rename, move or delete these files!
