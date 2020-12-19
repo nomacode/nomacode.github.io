@@ -1,6 +1,6 @@
-Images in this folder are used in Nomacode's email signature templates.
+The images in this folder are used in Nomacode's email signature templates.
 
-The URL of these images must never change! Otherwise, signatures will stop working properly.
+NOTE: The URL of these images must never change! Otherwise, signatures will stop working properly.
 
 The permanent URL for these images is https://nomacode.com/img/sig/[image], where [image] is one of the following files:
 

@@ -1,2 +1,1 @@
-Copyright © 2020 Nomacode LLC
-All rights reserved
+Copyright © 2020 Nomacode LLC All Rights Reserved.
