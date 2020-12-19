@@ -1,4 +1,4 @@
-# Images in Signatures
+# Signature Images
 The images in this folder are used in Nomacode's email signature templates.
 
 NOTE: The URL of these images must never change! Otherwise, signatures will stop working properly.
